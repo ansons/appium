@@ -38,11 +38,11 @@
 [submodule "submodules/appium-instruments"]
 	path = submodules/appium-instruments
 	url = https://github.com/appium/appium-instruments.git
-	branch = published
+	branch = master
 [submodule "submodules/appium-uiauto"]
 	path = submodules/appium-uiauto
 	url = https://github.com/appium/appium-uiauto.git
-	branch = published
+	branch = master
 [submodule "submodules/appium-adb"]
 	path = submodules/appium-adb
 	url = https://github.com/appium/appium-adb.git
